@@ -1,0 +1,22 @@
+[
+    { "msg": "It is certain.", "color": "green" },
+    { "msg": "It is decidedly so.", "color": "red" },
+    { "msg": "Without a doubt.", "color": "purple" },
+    { "msg": "Yes - definitely.", "color": "black" },
+    { "msg": "You may rely on it.", "color": "blue" },
+    { "msg": "As I see it, yes.", "color": "green" },
+    { "msg": "Most likely.", "color": "purple" },
+    { "msg": "Outlook good.", "color": "green" },
+    { "msg": "Yes.", "color": "green" },
+    { "msg": "Signs point to yes.", "color": "goldenrod" },
+    { "msg": "Reply hazy, try again.", "color": "blue" },
+    { "msg": "Ask again later.", "color": "purple" },
+    { "msg": "Better not tell you now.", "color": "goldenrod" },
+    { "msg": "Cannot predict now.", "color": "red" },
+    { "msg": "Concentrate and ask again.", "color": "goldenrod" },
+    { "msg": "Don't count on it.", "color": "purple" },
+    { "msg": "My reply is no.", "color": "green" },
+    { "msg": "My sources say no.", "color": "blue" },
+    { "msg": "Outlook not so good.", "color": "black" },
+    { "msg": "Very doubtful.", "color": "red" }
+  ]
